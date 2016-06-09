@@ -1,1 +1,3 @@
-oi aula de git 
+oi aula de git
+git status
+git add
