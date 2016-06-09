@@ -1,3 +1,6 @@
 oi aula de git
 git status
 git add
+primeiro temos que fazer uma pasta "Eu criei um com AulaGit no meu documentos"
+Peguei a pasta e add no editor de texto no meu caso Atom, tudo que fizer temos que salvar
+Com a interface do GitHub aberto eu add no repositório
